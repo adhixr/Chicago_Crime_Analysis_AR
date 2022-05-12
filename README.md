@@ -10,5 +10,4 @@ Police databases accumulate a large amount of data that could be analyzed to red
 For this analysis, we chose data on community area level of Chicago city (which is divided into 77 community areas) from 2010 to 2020. The data has been sourced from Chicago government websites and used for GLMER modelling. Our key findings are that, increasing the number of public schools, health support agencies and encouraging high school education will help reduce crime in community areas by 2%, 8.3% and 153% respectively.
 
 You can look at the R Code and the Project Report in the files section.
-
 Feel free to get in touch and discuss. :) 
