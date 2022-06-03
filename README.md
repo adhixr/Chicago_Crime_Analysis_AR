@@ -18,9 +18,11 @@ Our key findings from this analysis are:
 3.An increase of 1 of population who can attain atleast high school graduation in a community area will help reduce number of violent crime incidents by 153%.
 
 
-The Govt. could also consider a way to provde basic jobs to people who are trying hard to come out from a bad record, as well as give out some small and minimal loans to those who want to setup their own micro-businesses.
+The Govt. could also consider a way to provide basic jobs to people who are trying hard to come out from a bad record, as well as give out some small and minimal loans to those who want to setup their own micro-businesses.
+
 
 Implementation of these recommendations are long-term. Also, govt. needs to ensure that these people can be sent to school while taking into account the other controllable factors outside the data that relate to local granular population demographic and exercised control.
+
 
 You can look at the R Code and the Project Report in the files section.
 Feel free to get in touch and discuss. :) 
