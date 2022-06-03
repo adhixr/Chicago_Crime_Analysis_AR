@@ -10,8 +10,11 @@ Police databases accumulate a large amount of data that could be analyzed to red
 For this analysis, we chose data on community area level of Chicago city (which is divided into 77 community areas) from 2010 to 2020. The data has been sourced from Chicago government websites and used for GLMER modelling. 
 
 Our key findings from this analysis are:
+
 1.Increasing the number of public schools by 1 per 10K population in a community area will reduce number of violent crime incidents by 2%,
+
 2.Increasing the number of Health support agencies by 1 per 10K population in a community area will reduce number of violent crime incidents by 8.3%,  and
+
 3.An increase of 1 of population who can attain atleast high school graduation in a community area will help reduce number of violent crime incidents by 153%.
 
 
