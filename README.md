@@ -15,7 +15,7 @@ Our key findings from this analysis are:
 
 2.Increasing the number of Health support agencies by 1 per 10K population in a community area will reduce number of violent crime incidents by 8.3%,  and
 
-3.An increase of 1 of population who can attain atleast high school graduation in a community area will help reduce number of violent crime incidents by 153%.
+3.An increase of 1% of population who can attain atleast high school graduation in a community area will help reduce number of violent crime incidents by 153%.
 
 
 The Govt. could also consider a way to provide basic jobs to people who are trying hard to come out from a bad record, as well as give out some small and minimal loans to those who want to setup their own micro-businesses.
